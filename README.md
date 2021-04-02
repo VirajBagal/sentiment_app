@@ -1,2 +1,2 @@
 # sentiment_app
-In the repo, we deploy simple sentiment analysis model to Heroku
+In the repo, I deploy simple sentiment analysis model to Heroku. For now, it always outputs 'positive'.
